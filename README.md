@@ -2,6 +2,7 @@
 
 [![CircleCI](https://img.shields.io/circleci/project/github/adobe/aepsdk-edgemedia-ios/main.svg?logo=circleci)](https://circleci.com/gh/adobe/workflows/aepsdk-edgemedia-ios)
 [![Code Coverage](https://img.shields.io/codecov/c/github/adobe/aepsdk-edgemedia-ios/main.svg?logo=codecov)](https://codecov.io/gh/adobe/aepsdk-edgemedia-ios/branch/main)
+[![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)]()
 
 ## BETA ACKNOWLEDGEMENT
 

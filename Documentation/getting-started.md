@@ -1,3 +1,5 @@
+[![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)]()
+
 ## Getting started
 
 The Adobe Experience Platform Media for Edge Network mobile extension has the following dependencies, which must be installed prior to installing the extension:

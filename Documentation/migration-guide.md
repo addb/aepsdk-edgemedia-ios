@@ -1,3 +1,5 @@
+[![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)]()
+
 ## Migrating from AEPMedia to AEPEdgeMedia
 
 This is the complete migration guide from AEPMedia to AEPEdgeMedia SDK.

@@ -1,3 +1,5 @@
+[![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)]()
+
 # Adobe Experience Platform Media for Edge Network Extension - iOS
 
 ## Prerequisites
